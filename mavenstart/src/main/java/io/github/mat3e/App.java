@@ -12,6 +12,7 @@ public class App {
     //second change
     //my first repo
     //pierwsza zmiana
+    //today is 0.5/0.5
     public static void main(String[] args) throws Exception {
         var webapp = new WebAppContext();
         webapp.setResourceBase("src/main/webapp");
